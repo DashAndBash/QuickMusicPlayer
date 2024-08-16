@@ -5,4 +5,5 @@ Uses import Keyboard
 Key which you press first will be toggle button
 
 Holding: Playing music while holding
+
 Shorttap: toggle music on/off
